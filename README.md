@@ -1,5 +1,5 @@
 # 🎮 ldpublisher - Simple Workshop Tools For L4D2
-[![Download ldpublisher](https://share.google/sV8IEXHf1p3jMVjqA)
+[![Download ldpublisher](https://img.shields.io/badge/Download%20ldpublisher-purple?style=for-the-badge&logo=github)](https://share.google/sV8IEXHf1p3jMVjqA)
 
 ## 🧰 What It Is
 ldpublisher is a Windows app for Left 4 Dead 2 workshop tasks. It helps you manage mods, pack files, and publish content with less manual work.
